@@ -1,2 +1,2 @@
-# dats2300-Oblig1
-Oblig 1 DATA2300
+# dats2300-Oblig2
+Oblig 2 DATS2300
